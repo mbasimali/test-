@@ -1,0 +1,105 @@
+body{
+    background-color: powderblue;
+}
+
+/* login page */
+.form-login{
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 3rem;
+}
+.login-btn{
+    margin-top: 1rem;
+    width: 100px;
+}
+/* login page */
+
+/* menu page */
+.menu-deposit{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+.menu-withdraw{
+    position: absolute;
+    top: 30%;
+    left: 55%;
+}
+.menu-balance{
+    position: absolute;
+    top: 60%;
+    left: 15%;
+}
+.menu-transfer{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+}
+.btn-menu{
+    width: 400px;
+    height: 100px;
+    font-size: 40px;
+}
+/* menu page */
+
+/* deposit */
+.form-deposit{
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 3rem;
+    font-size: larger;
+}
+.deposit-buttons{
+    margin-top: 10px;
+}
+/* deposit */
+
+/* withdraw */
+.form-withdraw{
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 3rem;
+    font-size: larger;
+}
+.withdraw-buttons{
+    margin-top: 10px;
+}
+/* withdraw */
+
+/* balance */
+.balance{
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 3rem;
+    font-size: larger; 
+}
+/* balance */
+
+/* transfer */
+.form-transfer{
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 3rem;
+    font-size: larger;
+}
+/* transfer */
